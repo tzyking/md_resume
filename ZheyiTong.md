@@ -6,7 +6,7 @@
 
   
 ###Summary   
-Web application developer with database development experience.    
+Software engineer with data integration/ETL experience.    
 
 ------
 
