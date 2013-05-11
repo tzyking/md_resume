@@ -1,4 +1,7 @@
-Tech Resume
+Zheyi(Jeffrey) Tong Resume
 =========
+   
 
-This is a personal resume for ZHEYI TONG. 
+####Export to PDF using [gimli](https://github.com/walle/gimli):####
+ 
+	$ gimli -f ZheyiTong.md -w '--toc --footer-right "[page]/[toPage]"'
