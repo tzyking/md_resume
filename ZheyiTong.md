@@ -12,16 +12,16 @@ Software engineer with data integration/ETL experience.
 
  
 ###Skills   
-- **Programming Language:** Java, Ruby.    
-- **Front-end:** HTML,Document Object Model (DOM),JSP, HAML, Javascript/JQuery, CSS, AJAX, d3.js.   
-- **Back-end:** Ruby on Rails, RSpec, PostgreSQL, Oracle, Microsoft SQL server 2005/2008, MySQL, SQL, T-SQL, PL/SQL.   
-- **other:** Struts, Tomcat, SVN, Git.   
+- **Programming Language:** Java, Ruby, C    
+- **Web development:** HTML,Document Object Model (DOM),JSP, Javascript/JQuery, CSS, AJAX, d3.js, Struts, Tomcat, HAML, Rails, RSpec.   
+- **Database:** PostgreSQL, Oracle, Microsoft SQL server 2005/2008, MySQL, SQL, T-SQL, PL/SQL.   
+- **other:** SVN, Git.   
 
 ------
 
  
 ###Experience
-**Software Engineer@Cerner Coporation**   
+**Software Engineer@Cerner Corporation**   
 *August 2012 - Present*   
    
 - Warehouse data analytics Platform with Java, javascript, Jquery, D3.js, Oracle.  
@@ -49,10 +49,9 @@ Software engineer with data integration/ETL experience.
 ------
 
   
-###Projects
+###Sample Project
 **Web Store for Organic By John Patrick**   
 http://www.organicbyjohnpatrick.com/   
-Implemented with JSP, MySQL, JQuery, CSS, AJAX, Tomcat.   
 
 ------
 
