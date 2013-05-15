@@ -1,3 +1,6 @@
+##Recursion  
+###String permutation:
+
 ```java
 /*************************************************************************
  *  Compilation:  javac Permutations.java
@@ -69,4 +72,6 @@ public class Permutations {
     }
 }
 
-```
+```   
+
+------
