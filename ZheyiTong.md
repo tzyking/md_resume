@@ -15,7 +15,7 @@ Software engineer with data integration/ETL experience.
 - **Programming Language:** Java, Ruby, C    
 - **Web development:** HTML,Document Object Model (DOM),JSP, Javascript/JQuery, CSS, AJAX, d3.js, Struts, Tomcat, HAML, Rails, RSpec.   
 - **Database:** PostgreSQL, Oracle, Microsoft SQL server 2005/2008, MySQL, SQL, T-SQL, PL/SQL.   
-- **other:** SVN, Git.   
+- **other:** SVN, Git, Windows, Linux, OS X.   
 
 ------
 
