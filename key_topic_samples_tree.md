@@ -2,7 +2,7 @@
 
 ### BST  
 
-####Sorted linked list to BST   
+####Sorted linked list to BST:   
 
 ```java  
 
